@@ -1,5 +1,0 @@
-pymem
-pygame
-pywin32
-keyboard
-pygetwindow
